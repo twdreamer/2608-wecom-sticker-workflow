@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Sticker artwork and generated media are intentionally not versioned.
+*.png
+*.gif
+*.jpg
+*.jpeg
+*.webp
+*.apng
+manifest.csv
